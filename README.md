@@ -13,7 +13,7 @@ Please refer to the README.md files under each subfolder for more detailed infor
 
 #### Citation
 
-Please cite our paper if you find our work useful.: 
+Please cite our paper if you find our work useful.: https://doi.org/10.64898/2025.12.23.696217
 > TBA
 
 <!-- > [Zeng, H., Huang, J., Ren, J., Wang, C.K., Tang, Z., Zhou, H., Zhou, Y., Shi, H., Aditham, A., Sui, X. and Chen, H., 2023. Spatially resolved single-cell translatomics at molecular resolution. *Science*, *380*(6652), p.eadd3067.](https://tba) -->
